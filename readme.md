@@ -1,0 +1,1 @@
+Exploring some classical and modern computer vision techniques on an amazon jewelry reviews dataset
